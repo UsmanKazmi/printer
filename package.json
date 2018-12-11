@@ -1,0 +1,15 @@
+{
+  "name": "printer",
+  "version": "1.0.0",
+  "description": "printer plugin for bluetooth printer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "printer",
+    "ionic"
+  ],
+  "author": "Uxman",
+  "license": "ISC"
+}
